@@ -31,7 +31,7 @@ def scraper(args):
             time.sleep(15)
             i=i+1
     return results
-d
+
     
     
     
